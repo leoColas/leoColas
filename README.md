@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project for increase my skills**
 
-- 🤝 I’m looking for help with **increase my skills (a work on project help me for increase my skills**
+- 🤝 I’m looking for help with **increase my skills (a work on project help me for increase my skills)**
 
 - 💬 Ask me about **HTML5, CSS3 and JavaScript**
 
