@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project for increase my skills**
 
-- 🤝 I’m looking for help with **increase my skills (a work on a project help me)**
+- 🤝 I’m looking for help with **increase my skills (a work on project help me)**
 
 - 💬 Ask me about **HTML5, CSS3 and JavaScript**
 
@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/leocolas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@leocolas" height="30" width="40" /></a>
+<a href="https://codepen.io/@leocolas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@leocolas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/léo-colas-75555123b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="léo-colas-75555123b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
