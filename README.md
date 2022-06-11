@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML5, CSS3 and JavaScript**
 
-- 📫 How to reach me **leocolas@protonmail.com**
+- 📫 Reach me at **leocolas@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
